@@ -8,5 +8,6 @@ Welcome to the MedSearch optimization challenge. Rankings update automatically o
 | 2 | **Atharva-U12** | 56.15 | #1 | 2026-04-29 |
 | 3 | **Admin_Manual_Update** | 56.15 | #N/A | 2026-04-29 |
 | 4 | **Admin_Manual_Update** | 56.15 | #N/A | 2026-04-29 |
-| 5 | **Local-Test-User** | 46.15 | #TEST | 2026-04-29 |
+| 5 | **Admin_Manual_Update** | 56.15 | #N/A | 2026-04-30 |
 | 6 | **Local-Test-User** | 46.15 | #TEST | 2026-04-29 |
+| 7 | **Local-Test-User** | 46.15 | #TEST | 2026-04-29 |
