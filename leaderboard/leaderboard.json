@@ -30,6 +30,12 @@
         "date": "2026-04-30"
     },
     {
+        "username": "Admin_Manual",
+        "score": 56.15,
+        "pr_number": "N/A",
+        "date": "2026-04-30"
+    },
+    {
         "username": "Local-Test-User",
         "score": 46.15,
         "pr_number": "TEST",
