@@ -26,7 +26,7 @@ brand_array = df["brand_norm"].values
 # ----------------------------
 # MAIN FUNCTION (OPTIMIZED)
 # ----------------------------
-def recommend_alternatives(query, top_k=10):
+def recommend_alternatives(query, top_k=5):
     if not query:
         return pd.DataFrame()
 
@@ -81,4 +81,4 @@ def recommend_alternatives(query, top_k=10):
         ["brand_name", "primary_ingredient", "primary_strength", "dosage_form"]
     ]
 
-print("Just Updated K to 10")
+print("Just Updated K to 5")
